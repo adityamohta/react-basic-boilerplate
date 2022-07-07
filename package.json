@@ -23,7 +23,7 @@
     "fs": "0.0.1-security",
     "history": "^4.9.0",
     "material-icons-react": "^1.0.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "prop-types": "^15.7.2",
     "query-string": "^6.5.0",
     "react": "^16.8.6",
